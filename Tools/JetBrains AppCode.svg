@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.4.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.0" id="katman_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 121.9 87.3" style="enable-background:new 0 0 121.9 87.3;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#087CFA;}
+	.st1{fill:url(#SVGID_1_);}
+	.st2{fill:url(#SVGID_00000181051668364501853540000009414637804773559705_);}
+	.st3{fill:url(#SVGID_00000054238694703666345040000002634159755207591612_);}
+	.st4{fill:#FFFFFF;}
+</style>
+<symbol  id="appcode" viewBox="-35 -35 70 70">
+	<path class="st0" d="M18.5,35L35-8.7L6.6-15.3L18.5,35z"/>
+	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="-4.8125" y1="27.25" x2="34.7812" y2="27.25">
+		<stop  offset="0.194" style="stop-color:#07C3F2"/>
+		<stop  offset="0.903" style="stop-color:#087CFA"/>
+	</linearGradient>
+	<path class="st1" d="M34.8,21.1L18.5,35l-23.3-6L7,19.5L34.8,21.1z"/>
+	
+		<linearGradient id="SVGID_00000062870847581350240510000003765496563832881560_" gradientUnits="userSpaceOnUse" x1="-33.7603" y1="-18.9583" x2="3.3757" y2="-18.9583">
+		<stop  offset="0.194" style="stop-color:#07C3F2"/>
+		<stop  offset="0.903" style="stop-color:#087CFA"/>
+	</linearGradient>
+	<path style="fill:url(#SVGID_00000062870847581350240510000003765496563832881560_);" d="M-26.2-2.9l-7.5-21.3L3.4-35l-8.9,21.5
+		L-26.2-2.9z"/>
+	
+		<linearGradient id="SVGID_00000088110370512460513580000001209260424862955181_" gradientUnits="userSpaceOnUse" x1="10.8817" y1="37.218" x2="-23.7973" y2="-11.18">
+		<stop  offset="9.099999e-02" style="stop-color:#21D789"/>
+		<stop  offset="0.484" style="stop-color:#07C3F2"/>
+		<stop  offset="0.903" style="stop-color:#087CFA"/>
+	</linearGradient>
+	<path style="fill:url(#SVGID_00000088110370512460513580000001209260424862955181_);" d="M26.1,5.5L15.7-12.2l0.1-0.1L3.4-35
+		L-35,6.5V35l69.8-13.9L26.1,5.5z"/>
+	<path d="M21-21h-42v42h42V-21z"/>
+	<path class="st4" d="M-0.6,13.7h-15.7v2.7h15.7V13.7z"/>
+	<g>
+		<path class="st4" d="M-10.2-15.9h3.1l6.7,15.6h-3.5l-1.4-3.5h-6.6l-1.4,3.5h-3.5L-10.2-15.9z M-6.7-6.8l-2.1-5.1l-2.1,5.1H-6.7z"
+			/>
+		<path class="st4" d="M-0.4-7.9c0-4.4,3.3-8.2,8.2-8.2c3,0,4.7,0.9,6.3,2.3L12-11.2c-1.2-1.2-2.3-1.9-4-1.9c-2.6,0-4.7,2.1-4.7,4.9
+			S5.2-3.3,8-3.3c1.9,0,2.8-0.7,4.2-1.9l2.1,2.3C12.4-0.9,10.6,0,7.5,0C2.9,0-0.4-3.5-0.4-7.9z"/>
+	</g>
+</symbol>
+<use xlink:href="#appcode"  width="70" height="70" x="-35" y="-35" transform="matrix(1 0 0 1 60.9382 43.6461)" style="overflow:visible;"/>
+</svg>
