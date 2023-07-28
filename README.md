@@ -65,10 +65,7 @@
 <img style="margin: 10px" src="./Skills/html-5.svg" alt="HTML5" height="50" />
 <img style="margin: 10px" src="./Skills/css-3.svg" alt="CSS3" height="50" />
 <img style="margin: 10px" src="./Skills/git-icon.svg" alt="Git" height="50" />
-<img style="margin: 10px" src="./Skills/mysql.svg" alt="MySQL" height="50" />
 <img style="margin: 10px" src="./Skills/sqlite.svg" alt="Sqlite" height="50" />
-<img style="margin: 10px" src="./Skills/php.svg" alt="PHP" height="50" />
-<img style="margin: 10px" src="./Skills/laravel.svg" alt="laravel" height="50" />
 </div>  
 
 <!-- ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Tools </b>
