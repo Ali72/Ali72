@@ -55,6 +55,7 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> My Skills </b>
 <div align="center">  
 <img style="margin: 10px" src="./Skills/swift.svg" alt="Swift" height="50" />
+<img style="margin: 10px" src="./Skills/android.svg" alt="React" height="50" />
 <img style="margin: 10px" src="./Skills/java.svg" alt="React" height="50" />
 <img style="margin: 10px" src="./Skills/javascript.svg" alt="JavaScript" height="50" />
 <img style="margin: 10px" src="./Skills/react.svg" alt="React" height="50" />
