@@ -6,7 +6,7 @@
 [![Github](https://img.shields.io/github/followers/ali72?label=Follow&style=social)](https://github.com/ali72)  
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Ali</h1>
-<h3 align="center">Software Engineer | Mobile developer</h3>
+<h3 align="center">Software Engineer | iOS developer | Android developer</h3>
 <h4 align="center"> working remotely since 2015 🚀  </h4>
 
 <div align="center">
@@ -33,7 +33,7 @@
 
 <br/>  
 
-<!-- <img width="40%" align="right" alt="Github" src="" /> -->  
+<!-- <img width="300px"  align="right" alt="Github" src="https://cms-assets.tenderhut.com/665ad26e-74b6-0197-a66f-4ff80d2ded6b/assets/f4bd23c6-860b-43d9-8a11-e560d551d270/react%20native%20app%20development.png" /> -->
 
 - 🔭 I’m currently working remotely for companies  
   
@@ -44,7 +44,7 @@
 - ❓  Ask me about anything related to Mobile app development  
   
 
-- 🤝 I’m looking to collaborate with designer to create open-source apps  
+- 🤝 I’m looking to collaborate with designers to create open-source apps  
   
 
 - ⚡ Fun fact: I'm going to sleep  
@@ -54,23 +54,33 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> My Skills </b>
 <div align="center">  
-<a href="https://developer.apple.com/swift/" target="_blank"><img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/512/5968/5968371.png" alt="Swift" height="50" /></a>  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/xd.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" height="50" /></a>  
-<a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" /></a>  
-<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
-<a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" /></a>  
-<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
+<img style="margin: 10px" src="./Skills/swift.svg" alt="Swift" height="50" />
+<img style="margin: 10px" src="./Skills/java.svg" alt="React" height="50" />
+<img style="margin: 10px" src="./Skills/javascript.svg" alt="JavaScript" height="50" />
+<img style="margin: 10px" src="./Skills/react.svg" alt="React" height="50" />
+<img style="margin: 10px" src="./Skills/reactivex.svg" alt="Reactivex" height="50" />
+<img style="margin: 10px" src="./Skills/redux.svg" alt="Redux" height="50" />
+<img style="margin: 10px" src="./Skills/redux-saga.svg" alt="Redux-Saga" height="50" />
+<img style="margin: 10px" src="./Skills/html-5.svg" alt="HTML5" height="50" />
+<img style="margin: 10px" src="./Skills/css-3.svg" alt="CSS3" height="50" />
+<img style="margin: 10px" src="./Skills/git-icon.svg" alt="Git" height="50" />
+<img style="margin: 10px" src="./Skills/mysql.svg" alt="MySQL" height="50" />
+<img style="margin: 10px" src="./Skills/sqlite.svg" alt="Sqlite" height="50" />
+<img style="margin: 10px" src="./Skills/php.svg" alt="PHP" height="50" />
+<img style="margin: 10px" src="./Skills/laravel.svg" alt="laravel" height="50" />
 </div>  
 
-<br/>  
+<!-- ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Tools </b>
 
+<div align="center">  
+<img style="margin: 10px" src="./Tools/xcode.svg" alt="Swift" height="50" />&ensp;
+<img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/android-studio-1.svg" alt="java" height="50" /> &ensp;
+<img style="margin: 10px" src="./Tools/JetBrains AppCode.svg" alt="javascript" height="50" /> &ensp;
+<img style="margin: 10px" src="./Tools/JetBrains PhpStorm.svg" alt="javascript" height="50" /> &ensp;
+<img style="margin: 10px" src="./Tools/JetBrains WebStorm.svg" alt="javascript" height="50" /> &ensp;
+<img style="margin: 10px" src="./Tools/adobe-xd.svg" alt="javascript" height="50" /> &ensp;
+<img style="margin: 10px" src="./Tools/figma.svg" alt="javascript" height="50" /> &ensp;
+</div> --> 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b> 
 <div align="center"><img  alt="ali72's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ali72&show_icons=true&count_private=true&hide_border=true" align="center" />
@@ -80,7 +90,7 @@
 <br/>  
 
 
-## Recent Blog Posts  
+<!-- ## Recent Blog Posts -->  
 <!-- BLOG-POST-LIST:START -->  
 <!-- If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file.  -->  
 <!-- BLOG-POST-LIST:END -->  
