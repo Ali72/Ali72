@@ -33,7 +33,7 @@
 
 <br/>  
 
-<!-- <img width="300px"  align="right" alt="Github" src="https://cms-assets.tenderhut.com/665ad26e-74b6-0197-a66f-4ff80d2ded6b/assets/f4bd23c6-860b-43d9-8a11-e560d551d270/react%20native%20app%20development.png" /> -->
+<img width="300px"  align="right" alt="Github" src="./images/app-development.png" /> 
 
 - 🔭 I’m currently working remotely for companies  
   
